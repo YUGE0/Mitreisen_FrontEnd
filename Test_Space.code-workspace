@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../WEB-DEV/Test_Space"
+		},
+		{
+			"path": "../../WEB-DEV/Card"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Randome_num_gen"
+	}
+}
